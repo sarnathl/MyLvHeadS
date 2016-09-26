@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DesignDemo/DesignDemo.iml" filepath="$PROJECT_DIR$/../DesignDemo/DesignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EventBusLy/EventBusLy.iml" filepath="$PROJECT_DIR$/../EventBusLy/EventBusLy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyListViewLy.iml" filepath="$PROJECT_DIR$/../MyListViewLy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLvHead.iml" filepath="$PROJECT_DIR$/MyLvHead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RxJavaDemo/RxJavaDemo.iml" filepath="$PROJECT_DIR$/../RxJavaDemo/RxJavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServiceAtyTongxin/ServiceAtyTongxin.iml" filepath="$PROJECT_DIR$/../ServiceAtyTongxin/ServiceAtyTongxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+    </modules>
+  </component>
+</project>
